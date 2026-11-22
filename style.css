@@ -68,7 +68,7 @@ h1{
     cursor: pointer;
 }
 .check{
-    
+    accent-color: #16a34a;
 }
 .bar{
     background-image: linear-gradient(to bottom, rgba(168, 81, 255, 0.424), rgba(168,81,255, 0.1));
